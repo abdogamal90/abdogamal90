@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdogamal90
 - 👀 I’m interested in Computer Science especially Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : abdogamalrahim@gmail.com
 
 <!---
